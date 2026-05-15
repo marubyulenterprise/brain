@@ -1,0 +1,9 @@
+# Maru Company auto-generated
+.DS_Store
+.obsidian/
+.trash/
+node_modules/
+*.tmp
+*.log
+.cache/
+Thumbs.db
