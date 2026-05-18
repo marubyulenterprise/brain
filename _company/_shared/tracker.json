@@ -1,0 +1,106 @@
+{
+  "tasks": [
+    {
+      "id": "20260517011829-2ec1",
+      "title": "**충격감 극대화:** Glitch/Broken Edge 애니메이션은 단순한 꾸밈이 아닌, *시스템의 붕괴*처럼 느껴지게 코딩할 것.",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-05-17T01:18:29.052Z",
+      "status": "done",
+      "sessionDir": "2026-05-17T01-15",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-17T01-15/_report.md\n- Designer: LossFunnel 시각화 컴포넌트(Glitch/Broken Edge 포함)가 '5개 슬롯 초과' 상태의 사용자에게 노출될 때, 기술적 충격감뿐\n- 현빈: 제작된 Mockup과 연동하여, Pro Planの '자동화 루프 슬롯 5개 제한' 초과 시 작동할 백엔드 로직 및 시스템 경고 메시지(Copy)\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: LossFunnel 시각화 컴포넌트(Glitch/Broken Edge 포함)가 '5개 슬롯 초과' 상태의 사용자에게 노출될 때, 기술적 충격감뿐 아니라 재무적 손실($X,XXX 표시)을 직관적으로 인지시키는 인터랙티브 Mockup ",
+      "completedAt": "2026-05-17T01:21:56.678Z"
+    },
+    {
+      "id": "20260517011829-wyi6",
+      "title": "**재무적 위협 체감:** PVU 손실액($) 표시는 사용자가 무심코 지나치기 어려울 만큼 크고, 주기적인 시각적 변화(Pulse/Flicker)를 줄 것.",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-05-17T01:18:29.054Z",
+      "status": "done",
+      "sessionDir": "2026-05-17T01-15",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-17T01-15/_report.md\n- Designer: LossFunnel 시각화 컴포넌트(Glitch/Broken Edge 포함)가 '5개 슬롯 초과' 상태의 사용자에게 노출될 때, 기술적 충격감뿐\n- 현빈: 제작된 Mockup과 연동하여, Pro Planの '자동화 루프 슬롯 5개 제한' 초과 시 작동할 백엔드 로직 및 시스템 경고 메시지(Copy)\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: LossFunnel 시각화 컴포넌트(Glitch/Broken Edge 포함)가 '5개 슬롯 초과' 상태의 사용자에게 노출될 때, 기술적 충격감뿐 아니라 재무적 손실($X,XXX 표시)을 직관적으로 인지시키는 인터랙티브 Mockup ",
+      "completedAt": "2026-05-17T01:21:56.678Z"
+    },
+    {
+      "id": "20260517011829-zwq7",
+      "title": "**명확한 다음 단계:** CTA 버튼은 '구매'가 아닌, '**손실을 막는 방패**' 또는 '**잃어버린 기회를 되찾는 열쇠**'처럼 느껴지게 스토리텔링할 것.",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-05-17T01:18:29.054Z",
+      "status": "done",
+      "sessionDir": "2026-05-17T01-15",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-17T01-15/_report.md\n- Designer: LossFunnel 시각화 컴포넌트(Glitch/Broken Edge 포함)가 '5개 슬롯 초과' 상태의 사용자에게 노출될 때, 기술적 충격감뿐\n- 현빈: 제작된 Mockup과 연동하여, Pro Planの '자동화 루프 슬롯 5개 제한' 초과 시 작동할 백엔드 로직 및 시스템 경고 메시지(Copy)\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: LossFunnel 시각화 컴포넌트(Glitch/Broken Edge 포함)가 '5개 슬롯 초과' 상태의 사용자에게 노출될 때, 기술적 충격감뿐 아니라 재무적 손실($X,XXX 표시)을 직관적으로 인지시키는 인터랙티브 Mockup ",
+      "completedAt": "2026-05-17T01:21:56.680Z"
+    },
+    {
+      "id": "20260517193338-87du",
+      "title": "API 게이트웨이 레벨에서 `Credit Exhausted` 시, 단순 오류 코드 대신 **Paywall State Code (PWS-001)**를 반환하도록 수정.",
+      "description": "자동 등록 (현빈 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "business"
+      ],
+      "createdAt": "2026-05-17T19:33:38.666Z",
+      "status": "done",
+      "sessionDir": "2026-05-17T19-30",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-17T19-30/_report.md\n- 현빈: 최종 확정된 '진단 기반 구독 모델(D-Sub)'의 트랜잭션 플로우를 검토하여, L Amount 계산 로직에 포함되어야 할 모든 재무적 조건 (\n- Designer: Business가 확정한 L Amount 재무적 조건과 이전에 논의된 'Missing Edge Shock Component'를 통합하여, 최종 \n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💼 현빈 _(비즈니스 전략가 · Head of Business)_\n> 📋 **지시**: 최종 확정된 '진단 기반 구독 모델(D-Sub)'의 트랜잭션 플로우를 검토하여, L Amount 계산 로직에 포함되어야 할 모든 재무적 조건 (예: 초기 무료 사용량 기준, 경고 임계값 도달 시 증가율 변화 등)을 명",
+      "completedAt": "2026-05-17T19:38:38.973Z"
+    },
+    {
+      "id": "20260517193338-a82l",
+      "title": "$L$ Amount 계산 로직을 위한 데이터베이스 필드 (`total_source_volume`, `last_warn_date`) 추가 및 관리자 페이지에서 모니터링 가능해야 함.",
+      "description": "자동 등록 (현빈 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "business"
+      ],
+      "createdAt": "2026-05-17T19:33:38.667Z",
+      "status": "done",
+      "sessionDir": "2026-05-17T19-30",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-17T19-30/_report.md\n- 현빈: 최종 확정된 '진단 기반 구독 모델(D-Sub)'의 트랜잭션 플로우를 검토하여, L Amount 계산 로직에 포함되어야 할 모든 재무적 조건 (\n- Designer: Business가 확정한 L Amount 재무적 조건과 이전에 논의된 'Missing Edge Shock Component'를 통합하여, 최종 \n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💼 현빈 _(비즈니스 전략가 · Head of Business)_\n> 📋 **지시**: 최종 확정된 '진단 기반 구독 모델(D-Sub)'의 트랜잭션 플로우를 검토하여, L Amount 계산 로직에 포함되어야 할 모든 재무적 조건 (예: 초기 무료 사용량 기준, 경고 임계값 도달 시 증가율 변화 등)을 명",
+      "completedAt": "2026-05-17T19:38:38.975Z"
+    },
+    {
+      "id": "20260517193338-vzuy",
+      "title": "모든 프론트엔드 컴포넌트는 크레딧 소진율에 따른 **단계별 색상 코드(Green $\\rightarrow$ Yellow $\\rightarrow$ Red)**를 적용하도록 재설계.",
+      "description": "자동 등록 (현빈 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "business"
+      ],
+      "createdAt": "2026-05-17T19:33:38.667Z",
+      "status": "done",
+      "sessionDir": "2026-05-17T19-30",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-17T19-30/_report.md\n- 현빈: 최종 확정된 '진단 기반 구독 모델(D-Sub)'의 트랜잭션 플로우를 검토하여, L Amount 계산 로직에 포함되어야 할 모든 재무적 조건 (\n- Designer: Business가 확정한 L Amount 재무적 조건과 이전에 논의된 'Missing Edge Shock Component'를 통합하여, 최종 \n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💼 현빈 _(비즈니스 전략가 · Head of Business)_\n> 📋 **지시**: 최종 확정된 '진단 기반 구독 모델(D-Sub)'의 트랜잭션 플로우를 검토하여, L Amount 계산 로직에 포함되어야 할 모든 재무적 조건 (예: 초기 무료 사용량 기준, 경고 임계값 도달 시 증가율 변화 등)을 명",
+      "completedAt": "2026-05-17T19:38:38.975Z"
+    }
+  ]
+}
